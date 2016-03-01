@@ -1,0 +1,40 @@
+-81-Δ
+
+dunt motu continuo descripta supponitur, eius elementa ΗΡ (perinde vt
+elementa superficiei dv) semper positiue accipiemus ¹Casinus angulorum,
+quos directio elementi dP facit cum axibus coordinaurum c, y, a, per
+X,' Y, Z denotamus: ne vero sensus directionis ambiguus maneat, hanc
+ita decernimus, vt ipsa primo loco, directio 'normalis in elementum dr
+superficiem U tangentis et huius respectu introrsum ductae secundo loco,
+denique normalis in superficiem respectuque spatii s extrorsum ducta ter· ,
+tio loco, constituant systema trium rectarum similiter deinceps sitarum, vt
+axes coordinatorum x, y, a. Ita facile perspicietur (cf. Disquiss. geu· '
+circa superficies curuas art 2), cosinus angulorum inter directionem illam
+secundam atque axes coordinatarum x, y, z esse resp.
+
+ηοΖ - ζοῖ, ζ’)Χ- ξοΖ, ξοῖ- q0X
+si ξο, 910,ζο siut-voloces ipsarum ξ, η, {pro puncto elementi de..
+
+21*
+
+His ita praeparatis· supponamus, superficiem U pati mutationem qua-
+lcmcunquo infinite paruam. Si sufficeret, tales tantummodo mutationes
+considerare, pro quibus limes P semper inuariatus, vel saltem in eadem.
+superficie verticuli manerat, manifesto soli coordinatus tertiae z variatio·-
+nem iuducere oporteret, quo pacto problema longa lacibus euaderet 3 sed
+quum problema maxima generalitate nobis ventilandum sit, in tali inuesti—
+gatiobis modo ‚consideratio variabilitatis limitum in ambages incommodas
+concinnitatemque turbantes perduceret3 quamobrem praestabit ‚- statim ab(
+initio omnes tres coordinatus variationi subiicere. Rem itaque sic imagi-
+nabimur, 'vt cuiuis puncto superficiei, cuius coordinatus· suut x, y, τ tub· “
+stituamus aliud, cuius coordinatae sint x·}· dx, y † dy, z† da, vbi
+clx, ely, 'da spectari possunt tamquam functiones indeterminataeipsarum
+a, y, sed quarum valores manent infinite paruae. Inquiramus mmo in
+variationes singulorum elementorum expressionis W, et quidem initium
+faciamus a variatione ipsius elementi dU.
+
+concipiamus elementum ’ superficiei Utriangulare dU interpuncta,
+qnorum coordinatus sint
+
+ 
+
